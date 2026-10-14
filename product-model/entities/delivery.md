@@ -14,7 +14,7 @@ A post sent to five accounts has five deliveries, each with its own result.
 ## Information kept
 
 - **Scheduled time** — when it is due; empty when it goes out straight away
-- **Attempts** — how many times it has been tried since it was last scheduled or retried
+- **Attempts** — how many times it has been tried since it was last rescheduled or retried
 - **Error** — why its last attempt failed
 - **Link** — the address of the published post on the platform
 
